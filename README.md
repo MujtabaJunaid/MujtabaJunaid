@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?q=80&w=2000&auto=format&fit=crop" width="100%" style="border-radius: 10px;" alt="Milky Way Space Banner">
+    <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="300" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" alt="Developer Animation">
+
   
   <br><br>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="300" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" alt="Developer Animation">
-
-  <br>
 
   > **always in a rush**
 
