@@ -1,4 +1,6 @@
-<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 20px; border-radius: 10px;">
+![Space Background](https://via.placeholder.com/1200x600/0a0e27/1a1f3a?text=)
+
+<div align="center" style="background-color: #0a0e27; color: #e0e0e0; padding: 40px; margin: -20px; border-radius: 10px;">
 
 > **always in a rush**
 
@@ -11,6 +13,8 @@ Full-Stack Engineer @ Zapply
 Building AI systems, cloud infrastructure, and production-grade backends
 
 </div>
+
+<div style="background-color: #0a0e27; color: #e0e0e0; padding: 30px; margin-top: 0;">
 
 ---
 
@@ -100,3 +104,5 @@ Consistent top performer on LeetCode and competitive programming platforms
 ---
 
 Build fast. Ship hard. Learn from what breaks. Repeat.
+
+</div>
