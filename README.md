@@ -18,7 +18,7 @@ Building AI systems, cloud infrastructure, and production-grade backends
 
 I'm an AI and full-stack engineer obsessed with shipping production code. My playground is the intersection of deep learning, distributed systems, and cloud infrastructure.
 
-I don't chase trends—I chase problems worth solving. Whether it's training state-of-the-art models, orchestrating serverless pipelines, or architecting backends that scale, I like building systems that actually work at production scale.
+I don't chase trends, I chase problems worth solving. Whether it's training state-of-the-art models, orchestrating serverless pipelines, or architecting backends that scale, I like building systems that actually work at production scale.
 
 Competitive by nature. You'll find me grinding on LeetCode, competing in ML challenges, and constantly pushing the limits.
 
@@ -93,8 +93,7 @@ Scalable distributed backend architecture built on Supabase for primary data lay
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujtaba-junaid-a55262288/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mujtaba-junaid)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mujtaba-junaid)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mujtaba-junaid)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mujtabajunaid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujtabajunaid412@gmail.com)
 
 ---
