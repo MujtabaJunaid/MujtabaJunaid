@@ -1,9 +1,11 @@
-<div style="background-image: url('https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif'); background-size: cover; background-attachment: fixed; color: #e0e0e0; padding: 60px 20px;">
+<div style="background-image: url('https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif'); background-size: cover; background-attachment: fixed; background-position: center; color: #e0e0e0; padding: 60px 20px; min-height: 100vh;">
 
-<div align="center">
+<div align="center" style="background: rgba(10, 14, 39, 0.85); padding: 40px; border-radius: 10px; backdrop-filter: blur(10px);">
 
 > **always in a rush**
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400" style="border-radius: 10px; margin: 20px 0;">
+
 # Mujtaba Junaid
 
 BS in Artificial Intelligence @ FAST NUCES, Karachi (Aug 2026)  
@@ -26,7 +28,7 @@ Competitive by nature. You'll find me grinding on LeetCode, competing in ML chal
 
 ## Tech Stack
 
-<div align="center">
+<div align="center" style="background: rgba(10, 14, 39, 0.85); padding: 20px; border-radius: 10px; backdrop-filter: blur(10px);">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -87,7 +89,7 @@ Consistent top performer on LeetCode and competitive programming platforms
 
 ## Let's Connect
 
-<div align="center">
+<div align="center" style="background: rgba(10, 14, 39, 0.85); padding: 20px; border-radius: 10px; backdrop-filter: blur(10px);">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujtaba-junaid-a55262288/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mujtaba-junaid)
