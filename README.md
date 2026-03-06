@@ -1,13 +1,13 @@
-<div align="center"> # Always on a rush :))
-                            
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400">
-<br><br>
+<div align="center">
 
+> **always in a rush**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400">
 
 # Mujtaba Junaid
 
-BS in Artificial Intelligence @ FAST NUCES, Karachi (Aug 2026)
-Full-Stack Engineer @ Zapply
+BS in Artificial Intelligence @ FAST NUCES, Karachi (Aug 2026)  
+Full-Stack Engineer @ Zapply  
 Building AI systems, cloud infrastructure, and production-grade backends
 
 </div>
@@ -100,5 +100,3 @@ Consistent top performer on LeetCode and competitive programming platforms
 ---
 
 Build fast. Ship hard. Learn from what breaks. Repeat.
-
-</div>
