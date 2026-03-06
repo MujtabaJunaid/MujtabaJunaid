@@ -102,4 +102,4 @@ Scalable distributed backend architecture built on Supabase for primary data lay
 
 ---
 
-**Build fast. Ship hard. Learn from what breaks. Repeat.**
+Build fast. Ship hard. Learn from what breaks. Repeat.
