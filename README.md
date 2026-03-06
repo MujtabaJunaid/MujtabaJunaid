@@ -1,93 +1,137 @@
-<div align="center"> # Always on a rush :))
-                            
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400">
-<br><br>
-
-
-# Mujtaba Junaid
-
-BS in Artificial Intelligence @ FAST NUCES, Karachi (Aug 2026)
-Full-Stack Engineer @ Zapply
-Building AI systems, cloud infrastructure, and production-grade backends
-
-</div>
+> **always in a rush**
 
 ---
-
-## About Me
-
-I'm an AI and full-stack engineer obsessed with shipping production code. My playground is the intersection of deep learning, distributed systems, and cloud infrastructure.
-
-I don't chase trends—I chase problems worth solving. Whether it's training state-of-the-art models, orchestrating serverless pipelines, or architecting backends that scale, I like building systems that actually work at production scale.
-
-Competitive by nature. You'll find me grinding on LeetCode, competing in ML challenges, and constantly pushing the limits.
-
----
-
-## Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
-
-Languages: Python · JavaScript  
-AI/ML: Deep Learning · CNNs · NLP · Computer Vision · SOTA Model Training  
-Full-Stack: React.js · Next.js · MERN · Node.js · Express.js  
-Databases: MongoDB · Supabase · PostgreSQL  
-Cloud & DevOps: AWS (EC2, Lambda, S3, ECR, API Gateway) · Cloudflare Workers · Serverless · Docker
+[![Developer Profile](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Engineer;AI+%26+ML+Specialist;Cloud+Architect;Building+Production+Systems)](https://github.com/mujtaba-junaid)
 
 ---
 
-## Featured Projects
+## Mujtaba Junaid
+
+**BS in Artificial Intelligence @ FAST NUCES** | **Full-Stack Engineer @ Zapply**  
+Karachi, Pakistan
+
+</div>
+
+---
+
+## About
+
+Engineer focused on production systems that work at scale. Specialization in machine learning, distributed infrastructure, and cloud architecture. I build things that move companies forward—no fluff, just engineering.
+
+Currently developing AI systems, serverless pipelines, and backend infrastructure that handles real-world scale and complexity.
+
+---
+
+## Technical Foundation
+
+<table>
+<tr>
+<td align="center" width="25%">
+<b>Languages</b><br/>
+Python<br/>JavaScript
+</td>
+<td align="center" width="25%">
+<b>Frontend</b><br/>
+React.js<br/>Next.js<br/>MERN
+</td>
+<td align="center" width="25%">
+<b>Backend</b><br/>
+Node.js<br/>Express.js<br/>Supabase
+</td>
+<td align="center" width="25%">
+<b>Databases</b><br/>
+MongoDB<br/>PostgreSQL<br/>Supabase
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<b>AI/ML</b><br/>
+Deep Learning<br/>CNNs<br/>NLP<br/>Computer Vision<br/>PyTorch
+</td>
+<td align="center" width="25%">
+<b>Cloud</b><br/>
+AWS EC2<br/>Lambda<br/>S3<br/>ECR<br/>API Gateway
+</td>
+<td align="center" width="25%">
+<b>DevOps</b><br/>
+Docker<br/>Cloudflare Workers<br/>Serverless<br/>Git/GitHub
+</td>
+<td align="center" width="25%">
+<b>Platforms</b><br/>
+Kaggle<br/>LeetCode<br/>Competitive ML
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Work
 
 ### Dentist SOTA
-State-of-the-art AI system for dental diagnostics. Production-grade deep learning handling real-time clinical decision support with multi-stage image processing pipelines at sub-100ms latency.
 
-Tech: Deep Learning · CNNs · Computer Vision · Python
+State-of-the-art AI system for dental diagnostics and clinical decision support. Production-grade deep learning architecture handling multi-stage image processing and classification pipelines at sub-100ms latency.
+
+| **Technology Stack** | Deep Learning · CNNs · Computer Vision · Python |
+|---|---|
+| **Performance** | Sub-100ms latency, real-time clinical support |
+
+---
 
 ### Serverless AI Digit Recognition
-Complete end-to-end serverless MNIST pipeline. MERN frontend, AWS Lambda backend, Docker containerization, auto-scaling infrastructure. Built for production with minimal cold-start overhead.
 
-Tech: MERN · AWS Lambda · Docker · ECR
+Complete end-to-end serverless MNIST digit recognition pipeline. MERN stack frontend integrated with AWS Lambda orchestration, Docker containerization via ECR, and production-ready auto-scaling infrastructure with minimal cold-start overhead.
+
+| **Technology Stack** | MERN · AWS Lambda · Docker · ECR |
+|---|---|
+| **Deployment** | Fully serverless, auto-scaling |
+
+---
 
 ### 5G Pipeline Security via CNNs
-Research-grade CNN system detecting jamming attacks in 5G infrastructure. Real-time threat detection with high-accuracy signal interference pattern recognition.
 
-Tech: CNNs · Signal Processing · Deep Learning
+Advanced research implementation leveraging convolutional neural networks for real-time detection and mitigation of jamming attacks in 5G infrastructure. Developed high-accuracy threat detection models for signal interference pattern recognition.
+
+| **Technology Stack** | CNNs · Signal Processing · Deep Learning · Python |
+|---|---|
+| **Focus** | Real-time threat detection |
+
+---
 
 ### Advanced NLP for Mental Health
-Two-stage NLP pipeline distinguishing suicidal ideation from depression with clinical precision. Trained on large annotated datasets, optimized for mental health screening accuracy.
 
-Tech: NLP · Deep Learning · PyTorch · Clinical ML
+Two-stage natural language processing pipeline engineered to distinguish suicidal ideation from depression with clinical-grade precision. Trained on large annotated datasets with emphasis on sensitivity and specificity for mental health screening contexts.
+
+| **Technology Stack** | NLP · Deep Learning · PyTorch |
+|---|---|
+| **Emphasis** | Clinical accuracy and precision |
+
+---
 
 ### Zapply Backend Infrastructure
-Scalable backend architecture using Supabase + Cloudflare Workers for edge computing. Optimized for global latency and serverless cost efficiency.
 
-Tech: Supabase · Cloudflare Workers · Node.js
+Scalable distributed backend architecture built on Supabase for primary data layer and Cloudflare Workers for edge computing. Optimized for global latency reduction and serverless cost efficiency.
 
----
-
-## Achievements
-
-2x Runner-Up in competitive ML competitions  
-Kaggle Image Matching Challenge 2025 — ranked competitor  
-Kaggle Deep Past Challenge — NLP track (Akkadian-to-English translation)  
-Consistent top performer on LeetCode and competitive programming platforms
+| **Technology Stack** | Supabase · Cloudflare Workers · Node.js |
+|---|---|
+| **Scale** | Global edge deployment |
 
 ---
 
-## Let's Connect
+## Recognition
+
+- 2x Runner-Up in competitive Machine Learning competitions
+- Kaggle Image Matching Challenge 2025 — Ranked competitor
+- Kaggle Deep Past Challenge — NLP track (Akkadian-to-English translation)
+- Consistent top performer on LeetCode and competitive programming platforms
+
+---
 
 <div align="center">
+
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujtaba-junaid-a55262288/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mujtaba-junaid)
@@ -95,10 +139,8 @@ Consistent top performer on LeetCode and competitive programming platforms
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mujtaba-junaid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujtabajunaid412@gmail.com)
 
-</div>
-
 ---
 
-Build fast. Ship hard. Learn from what breaks. Repeat.
+**Build fast. Ship hard. Learn from what breaks. Repeat.**
 
 </div>
