@@ -1,8 +1,8 @@
+<div style="background-image: url('https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif'); background-size: cover; background-attachment: fixed; color: #e0e0e0; padding: 60px 20px;">
+
 <div align="center">
 
 > **always in a rush**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400">
 
 # Mujtaba Junaid
 
@@ -100,3 +100,5 @@ Consistent top performer on LeetCode and competitive programming platforms
 ---
 
 Build fast. Ship hard. Learn from what breaks. Repeat.
+
+</div>
