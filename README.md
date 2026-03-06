@@ -67,9 +67,8 @@ Architected scalable backend using Supabase for primary data layer and Cloudflar
 
 Open to discussing architecture, ML research, or production system design. Reach out if you're working on something that requires depth.
 
-**Email:** [Your Email]  
-**LinkedIn:** [Your LinkedIn]  
-**GitHub:** [@mujtaba-junaid](https://github.com/mujtaba-junaid)  
-**LeetCode:** [Your LeetCode Profile]
+**Email:** mujtabajunaid412@gmail.com
+**LinkedIn** (https://www.linkedin.com/in/mujtaba-junaid-a55262288/)
+**GitHub:** https://github.com/mujtaba-junaid  
 
 ---
