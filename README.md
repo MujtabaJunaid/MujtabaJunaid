@@ -4,8 +4,8 @@
 
 # Mujtaba Junaid
 
-**BS in Artificial Intelligence** @ FAST NUCES, Karachi (Aug 2026)  
-**Full-Stack Engineer** @ Zapply  
+BS in Artificial Intelligence @ FAST NUCES, Karachi (Aug 2026)
+Full-Stack Engineer @ Zapply
 Building AI systems, cloud infrastructure, and production-grade backends
 
 </div>
@@ -34,16 +34,14 @@ Competitive by nature. You'll find me grinding on LeetCode, competing in ML chal
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
-**Languages:** Python · JavaScript  
-**AI/ML:** Deep Learning · CNNs · NLP · Computer Vision · SOTA Model Training  
-**Full-Stack:** React.js · Next.js · MERN · Node.js · Express.js  
-**Databases:** MongoDB · Supabase · PostgreSQL  
-**Cloud & DevOps:** AWS (EC2, Lambda, S3, ECR, API Gateway) · Cloudflare Workers · Serverless · Docker
+Languages: Python · JavaScript  
+AI/ML: Deep Learning · CNNs · NLP · Computer Vision · SOTA Model Training  
+Full-Stack: React.js · Next.js · MERN · Node.js · Express.js  
+Databases: MongoDB · Supabase · PostgreSQL  
+Cloud & DevOps: AWS (EC2, Lambda, S3, ECR, API Gateway) · Cloudflare Workers · Serverless · Docker
 
 ---
 
@@ -52,59 +50,40 @@ Competitive by nature. You'll find me grinding on LeetCode, competing in ML chal
 ### Dentist SOTA
 State-of-the-art AI system for dental diagnostics. Production-grade deep learning handling real-time clinical decision support with multi-stage image processing pipelines at sub-100ms latency.
 
-**Tech:** Deep Learning · CNNs · Computer Vision · Python  
-**Impact:** Sub-100ms latency clinical support system
+Tech: Deep Learning · CNNs · Computer Vision · Python
 
 ### Serverless AI Digit Recognition
 Complete end-to-end serverless MNIST pipeline. MERN frontend, AWS Lambda backend, Docker containerization, auto-scaling infrastructure. Built for production with minimal cold-start overhead.
 
-**Tech:** MERN · AWS Lambda · Docker · ECR  
-**Deployment:** Fully serverless, auto-scaling
+Tech: MERN · AWS Lambda · Docker · ECR
 
 ### 5G Pipeline Security via CNNs
 Research-grade CNN system detecting jamming attacks in 5G infrastructure. Real-time threat detection with high-accuracy signal interference pattern recognition.
 
-**Tech:** CNNs · Signal Processing · Deep Learning  
-**Recognition:** Advanced research implementation
+Tech: CNNs · Signal Processing · Deep Learning
 
 ### Advanced NLP for Mental Health
 Two-stage NLP pipeline distinguishing suicidal ideation from depression with clinical precision. Trained on large annotated datasets, optimized for mental health screening accuracy.
 
-**Tech:** NLP · Deep Learning · PyTorch · Clinical ML  
-**Focus:** High sensitivity & specificity
+Tech: NLP · Deep Learning · PyTorch · Clinical ML
 
 ### Zapply Backend Infrastructure
 Scalable backend architecture using Supabase + Cloudflare Workers for edge computing. Optimized for global latency and serverless cost efficiency.
 
-**Tech:** Supabase · Cloudflare Workers · Node.js  
-**Scale:** Global edge deployment
+Tech: Supabase · Cloudflare Workers · Node.js
 
 ---
 
 ## Achievements
 
-2x Runner-Up — Competitive ML Competitions  
-Kaggle Image Matching Challenge 2025 — Ranked Competitor  
-Kaggle Deep Past Challenge — NLP Track (Akkadian-to-English Translation)  
-Consistent Top Performer — LeetCode & Competitive Programming  
+2x Runner-Up in competitive ML competitions  
+Kaggle Image Matching Challenge 2025 — ranked competitor  
+Kaggle Deep Past Challenge — NLP track (Akkadian-to-English translation)  
+Consistent top performer on LeetCode and competitive programming platforms
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mujtaba-junaid&show_icons=true&theme=dark)](https://github.com/mujtaba-junaid)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujtaba-junaid&layout=compact&theme=dark)](https://github.com/mujtaba-junaid)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mujtaba-junaid&theme=dark)](https://github.com/mujtaba-junaid)
-
-</div>
-
----
-
-## Connect with Me
+## Let's Connect
 
 <div align="center">
 
@@ -112,19 +91,12 @@ Consistent Top Performer — LeetCode & Competitive Programming
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mujtaba-junaid)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mujtaba-junaid)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mujtaba-junaid)
-
-**Email:** mujtabajunaid412@gmail.com
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujtabajunaid412@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-
-### Philosophy
-
 Build fast. Ship hard. Learn from what breaks. Repeat.
-
-**Let's work on something that matters.**
 
 </div>
