@@ -1,89 +1,86 @@
 <div align="center">
 
-![Coding](https://media.giphy.com/media/RbDKvAN0g7sZBxWuEH/giphy.gif)
+[![Developer Animation](https://raw.githubusercontent.com/mujtaba-junaid/mujtaba-junaid/main/assets/developer.gif)](https://github.com/mujtaba-junaid)
 
 # Mujtaba Junaid
 
-BS in Artificial Intelligence @ FAST NUCES, Karachi (Aug 2026)
+**AI Engineer | Full-Stack Developer | Cloud Architect**
+
+BS in Artificial Intelligence @ FAST NUCES, Karachi (Aug 2026)  
 Full-Stack Engineer @ Zapply
-Building AI systems, cloud infrastructure, and production-grade backends
 
 </div>
 
 ---
 
-## About Me
+## Overview
 
-I'm an AI and full-stack engineer obsessed with shipping production code. My playground is the intersection of deep learning, distributed systems, and cloud infrastructure.
+I build production systems at the intersection of machine learning, distributed infrastructure, and cloud architecture. My focus is on solving real problems with scalable, maintainable code.
 
-I don't chase trends—I chase problems worth solving. Whether it's training state-of-the-art models, orchestrating serverless pipelines, or architecting backends that scale, I like building systems that actually work at production scale.
-
-Competitive by nature. You'll find me grinding on LeetCode, competing in ML challenges, and constantly pushing the limits.
+Currently working on AI systems, serverless pipelines, and backend infrastructure that handles scale. Not interested in trends or buzzwords—interested in engineering that works.
 
 ---
 
 ## Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
-
-Languages: Python · JavaScript  
-AI/ML: Deep Learning · CNNs · NLP · Computer Vision · SOTA Model Training  
-Full-Stack: React.js · Next.js · MERN · Node.js · Express.js  
-Databases: MongoDB · Supabase · PostgreSQL  
-Cloud & DevOps: AWS (EC2, Lambda, S3, ECR, API Gateway) · Cloudflare Workers · Serverless · Docker
+| **Category** | **Technologies** |
+|---|---|
+| **Languages** | Python, JavaScript |
+| **Frontend** | React.js, Next.js, MERN Stack |
+| **Backend** | Node.js, Express.js, Supabase |
+| **Databases** | MongoDB, PostgreSQL, Supabase |
+| **AI/ML** | Deep Learning, CNNs, NLP, Computer Vision, PyTorch, SOTA Model Training |
+| **Cloud & DevOps** | AWS (EC2, Lambda, S3, ECR, API Gateway), Cloudflare Workers, Serverless, Docker, Git/GitHub |
 
 ---
 
-## Featured Projects
+## Projects
 
 ### Dentist SOTA
-State-of-the-art AI system for dental diagnostics. Production-grade deep learning handling real-time clinical decision support with multi-stage image processing pipelines at sub-100ms latency.
+State-of-the-art AI system for dental diagnostics. Production-grade deep learning with real-time clinical decision support. Multi-stage image processing and classification at sub-100ms latency.
 
-Tech: Deep Learning · CNNs · Computer Vision · Python
+**Stack:** Deep Learning · CNNs · Computer Vision · Python
+
+---
 
 ### Serverless AI Digit Recognition
-Complete end-to-end serverless MNIST pipeline. MERN frontend, AWS Lambda backend, Docker containerization, auto-scaling infrastructure. Built for production with minimal cold-start overhead.
+End-to-end serverless MNIST digit recognition pipeline. MERN frontend with AWS Lambda backend, Docker containerization, and auto-scaling infrastructure. Production-ready serverless architecture.
 
-Tech: MERN · AWS Lambda · Docker · ECR
+**Stack:** MERN · AWS Lambda · Docker · ECR
+
+---
 
 ### 5G Pipeline Security via CNNs
-Research-grade CNN system detecting jamming attacks in 5G infrastructure. Real-time threat detection with high-accuracy signal interference pattern recognition.
+Advanced CNN system for detecting and mitigating jamming attacks in 5G infrastructure. Real-time threat detection with high-accuracy signal interference pattern recognition.
 
-Tech: CNNs · Signal Processing · Deep Learning
+**Stack:** CNNs · Signal Processing · Deep Learning · Python
+
+---
 
 ### Advanced NLP for Mental Health
-Two-stage NLP pipeline distinguishing suicidal ideation from depression with clinical precision. Trained on large annotated datasets, optimized for mental health screening accuracy.
+Two-stage NLP pipeline for distinguishing suicidal ideation from depression with clinical precision. Built on large annotated datasets with emphasis on sensitivity and specificity.
 
-Tech: NLP · Deep Learning · PyTorch · Clinical ML
+**Stack:** NLP · Deep Learning · PyTorch
+
+---
 
 ### Zapply Backend Infrastructure
-Scalable backend architecture using Supabase + Cloudflare Workers for edge computing. Optimized for global latency and serverless cost efficiency.
+Scalable backend architecture using Supabase and Cloudflare Workers for edge computing. Optimized for global latency and serverless cost efficiency.
 
-Tech: Supabase · Cloudflare Workers · Node.js
+**Stack:** Supabase · Cloudflare Workers · Node.js
 
 ---
 
 ## Achievements
 
-2x Runner-Up in competitive ML competitions  
-Kaggle Image Matching Challenge 2025 — ranked competitor  
-Kaggle Deep Past Challenge — NLP track (Akkadian-to-English translation)  
-Consistent top performer on LeetCode and competitive programming platforms
+- 2x Runner-Up in competitive Machine Learning competitions
+- Kaggle Image Matching Challenge 2025 — Ranked competitor
+- Kaggle Deep Past Challenge — NLP track (Akkadian-to-English translation)
+- Consistent top performer on LeetCode and competitive programming platforms
 
 ---
 
-## Let's Connect
+## Connect
 
 <div align="center">
 
@@ -98,5 +95,3 @@ Consistent top performer on LeetCode and competitive programming platforms
 ---
 
 Build fast. Ship hard. Learn from what breaks. Repeat.
-
-</div>
