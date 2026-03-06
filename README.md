@@ -1,6 +1,21 @@
+<style>
+body {
+  background-color: #0a0e27;
+  background-image: 
+    radial-gradient(2px 2px at 20px 30px, white, rgba(255,255,255,.2)),
+    radial-gradient(2px 2px at 60px 70px, white, rgba(255,255,255,.2)),
+    radial-gradient(1px 1px at 50px 50px, white, rgba(255,255,255,.2)),
+    radial-gradient(1px 1px at 130px 80px, white, rgba(255,255,255,.2)),
+    radial-gradient(2px 2px at 90px 10px, white, rgba(255,255,255,.2));
+  background-repeat: repeat;
+  background-size: 200px 200px;
+  color: #e0e0e0;
+}
+</style>
+
 <div align="center">
 
-> **Always in a rush :))**
+> **always in a rush**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400">
 
