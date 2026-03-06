@@ -1,19 +1,4 @@
-<style>
-body {
-  background-color: #0a0e27;
-  background-image: 
-    radial-gradient(2px 2px at 20px 30px, white, rgba(255,255,255,.2)),
-    radial-gradient(2px 2px at 60px 70px, white, rgba(255,255,255,.2)),
-    radial-gradient(1px 1px at 50px 50px, white, rgba(255,255,255,.2)),
-    radial-gradient(1px 1px at 130px 80px, white, rgba(255,255,255,.2)),
-    radial-gradient(2px 2px at 90px 10px, white, rgba(255,255,255,.2));
-  background-repeat: repeat;
-  background-size: 200px 200px;
-  color: #e0e0e0;
-}
-</style>
-
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 20px; border-radius: 10px;">
 
 > **always in a rush**
 
