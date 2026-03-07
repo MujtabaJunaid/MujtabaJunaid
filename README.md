@@ -66,10 +66,10 @@ Advanced research implementation leveraging convolutional neural networks for re
 
 ---
 
-### Advanced NLP for Mental Health
-Two-stage natural language processing pipeline engineered to distinguish suicidal ideation from depression with clinical-grade precision. Trained on large annotated datasets, optimized for mental health screening contexts.
+### Sentinel-d
+An autonomous DevSecOps multi-agent system that moves CI/CD from passive scanning to active defense. Sentinel-D triages CVEs, verifies live production blast radius via Azure SRE, and writes sandbox-tested PRs before a human ever has to look.
 
-**Tech:** NLP · Deep Learning · PyTorch
+**Tech:** NLP · Deep Learning · DevSecOps· Node.js · React.js · Azure  
 
 ---
 
