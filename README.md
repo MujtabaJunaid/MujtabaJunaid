@@ -59,7 +59,7 @@ Complete end-to-end serverless MNIST digit recognition pipeline. MERN stack fron
 
 ---
 
-### [5G Pipeline Security via CNNs]((https://github.com/MujtabaJunaid/FYP-5G-Pipeline))
+### [5G Pipeline Security via CNNs](https://github.com/MujtabaJunaid/FYP-5G-Pipeline)
 Advanced research implementation leveraging convolutional neural networks for real-time detection and mitigation of jamming attacks in 5G infrastructure. High-accuracy threat detection models for signal interference pattern recognition.
 
 **Tech:** CNNs · Signal Processing · Deep Learning
