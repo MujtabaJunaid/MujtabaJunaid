@@ -45,35 +45,35 @@ Competitive by nature. You'll find me grinding on LeetCode, competing in ML chal
 
 ## Featured Projects
 
-### Dentist SOTA
+### [Dentist SOTA](https://github.com/MujtabaJunaid/Dentist-SOTA)
 State-of-the-art AI system for dental diagnostics. Production-grade deep learning handling real-time clinical decision support with multi-stage image processing pipelines at sub-100ms latency.
 
 **Tech:** Deep Learning · CNNs · Computer Vision · Python
 
 ---
 
-### Serverless AI Digit Recognition
+### [Serverless AI Digit Recognition](https://github.com/MujtabaJunaid/Serverless-Lambda-Implementation)
 Complete end-to-end serverless MNIST digit recognition pipeline. MERN stack frontend, AWS Lambda backend, Docker containerization, auto-scaling infrastructure. Built for production with minimal cold-start overhead.
 
 **Tech:** MERN · AWS Lambda · Docker · ECR
 
 ---
 
-### 5G Pipeline Security via CNNs
+### [5G Pipeline Security via CNNs]([url](https://github.com/MujtabaJunaid/FYP-5G-Pipeline))
 Advanced research implementation leveraging convolutional neural networks for real-time detection and mitigation of jamming attacks in 5G infrastructure. High-accuracy threat detection models for signal interference pattern recognition.
 
 **Tech:** CNNs · Signal Processing · Deep Learning
 
 ---
 
-### Sentinel-d
+### [Sentinel-d](https://github.com/MujtabaJunaid/Sentinel-d)
 An autonomous DevSecOps multi-agent system that moves CI/CD from passive scanning to active defense. Sentinel-D triages CVEs, verifies live production blast radius via Azure SRE, and writes sandbox-tested PRs before a human ever has to look.
 
 **Tech:** NLP · Deep Learning · DevSecOps· Node.js · React.js · Azure  
 
 ---
 
-### Zapply Backend Infrastructure
+### [Zapply Backend Infrastructure](https://www.linkedin.com/company/zapply-jobs/posts/?feedView=all)
 Scalable distributed backend architecture built on Supabase for primary data layer and Cloudflare Workers for edge computing. Optimized for global latency reduction and serverless cost efficiency.
 
 **Tech:** Supabase · Cloudflare Workers · Node.js
