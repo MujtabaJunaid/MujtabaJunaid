@@ -52,10 +52,17 @@ State-of-the-art AI system for dental diagnostics. Production-grade deep learnin
 
 ---
 
-### [Serverless AI Digit Recognition](https://github.com/MujtabaJunaid/Serverless-Lambda-Implementation)
-Complete end-to-end serverless MNIST digit recognition pipeline. MERN stack frontend, AWS Lambda backend, Docker containerization, auto-scaling infrastructure. Built for production with minimal cold-start overhead.
+### [Dentist SOTA](https://github.com/MujtabaJunaid/Dentist-SOTA)
+State-of-the-art AI system for dental diagnostics. Production-grade deep learning handling real-time clinical decision support with multi-stage image processing pipelines at sub-100ms latency.
 
-**Tech:** MERN · AWS Lambda · Docker · ECR
+**Tech:** Deep Learning · CNNs · Computer Vision · Python
+
+---
+
+### [Pneumonia chest-x-ray-Production-Grade](https://github.com/MujtabaJunaid/Pneumonia-chest-x-ray-Production-Grade-)
+Advanced AI-powered pneumonia detection system using chest X-ray analysis with EfficientNetB0 and ONNX runtime. Full-stack medical application with FastAPI backend and React frontend.
+
+**Tech:** MERN · AWS Lambda · Docker · ECR · Pytorch  
 
 ---
 
