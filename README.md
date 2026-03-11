@@ -52,13 +52,6 @@ State-of-the-art AI system for dental diagnostics. Production-grade deep learnin
 
 ---
 
-### [Dentist SOTA](https://github.com/MujtabaJunaid/Dentist-SOTA)
-State-of-the-art AI system for dental diagnostics. Production-grade deep learning handling real-time clinical decision support with multi-stage image processing pipelines at sub-100ms latency.
-
-**Tech:** Deep Learning · CNNs · Computer Vision · Python
-
----
-
 ### [Pneumonia chest-x-ray-Production-Grade](https://github.com/MujtabaJunaid/Pneumonia-chest-x-ray-Production-Grade-)
 Advanced AI-powered pneumonia detection system using chest X-ray analysis with EfficientNetB0 and ONNX runtime. Full-stack medical application with FastAPI backend and React frontend.
 
