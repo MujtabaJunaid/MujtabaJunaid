@@ -73,6 +73,12 @@ An autonomous DevSecOps multi-agent system that moves CI/CD from passive scannin
 
 ---
 
+### [Serverless-Lambda-Implementation](https://github.com/MujtabaJunaid/Serverless-Lambda-Implementation)
+A serverless deep learning API for handwritten digit recognition. Deployed using AWS Lambda, Docker, and S3 with a fully automated CI/CD pipeline via GitHub Actions.
+**Tech:** Dockers · AWS Lambda  · React   · S3   · React Github Actions   · mnist
+
+---
+
 ### [Zapply Backend Infrastructure](https://www.linkedin.com/company/zapply-jobs/posts/?feedView=all)
 Scalable distributed backend architecture built on Supabase for primary data layer and Cloudflare Workers for edge computing. Optimized for global latency reduction and serverless cost efficiency.
 
