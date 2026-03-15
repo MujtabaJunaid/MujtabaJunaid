@@ -69,7 +69,7 @@ Advanced research implementation leveraging convolutional neural networks for re
 ### [Sentinel-d](https://github.com/MujtabaJunaid/Sentinel-d)
 An autonomous DevSecOps multi-agent system that moves CI/CD from passive scanning to active defense. Sentinel-D triages CVEs, verifies live production blast radius via Azure SRE, and writes sandbox-tested PRs before a human ever has to look.
 
-**Tech:** NLP · Deep Learning · DevSecOps· Node.js · React.js · Azure  
+**Tech:** NLP · Deep Learning · DevSecOps· Node.js · React.js · Prometheus · k8s · FastApi   
 
 ---
 
@@ -77,6 +77,11 @@ An autonomous DevSecOps multi-agent system that moves CI/CD from passive scannin
 A serverless deep learning API for handwritten digit recognition. Deployed using AWS Lambda, Docker, and S3 with a fully automated CI/CD pipeline via GitHub Actions.
 
 **Tech:** Dockers · AWS Lambda  · React   · S3   · React Github Actions   · mnist
+
+---
+### [Stock-Agent-Classifier](https://github.com/MujtabaJunaid/Stock-Agent-Classifier)
+It is an AI-driven system designed to analyze, categorize, and predict stock market trends or agent behaviors (such as investor personalities) to facilitate automated trading or financial decision-making. These systems generally leverage machine learning (XG boost and RFC)
+**Tech:** Dockers · AWS · FastApi   · S3   · React · Grafana
 
 ---
 
